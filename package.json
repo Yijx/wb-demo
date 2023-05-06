@@ -1,0 +1,30 @@
+{
+  "name": "react-wb-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@wangeditor/editor": "^5.1.23",
+    "@wangeditor/editor-for-react": "^1.0.6",
+    "antd": "^5.4.5",
+    "braft-editor": "^2.3.9",
+    "draft-js": "^0.11.7",
+    "echarts": "^5.4.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^12.2.2",
+    "react-markdown": "^8.0.7",
+    "react-scripts": "4.0.2",
+    "react-syntax-highlighter": "^15.4.3",
+    "rehype-raw": "^6.1.1",
+    "rehype-sanitize": "^5.0.1",
+    "slate": "^0.94.0",
+    "slate-react": "^0.94.0",
+    "systemjs": "^6.14.1",
+    "systemjs-babel": "^0.3.2",
+    "vite-plugin-css-injected-by-js": "^3.1.0"
+  },
+  "devDependencies": {
+    "vite": "^4.3.1"
+  }
+}
